@@ -1,0 +1,20 @@
+title: Legal Documents
+description: Privacy policies and terms of service for our apps.
+
+# Clean URLs (e.g. /flockle/privacy/ instead of /flockle/privacy.html)
+permalink: pretty
+
+# Files/dirs Jekyll should not copy into the built site
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .gitignore
+
+# Default layout for any page that doesn't set one
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: doc

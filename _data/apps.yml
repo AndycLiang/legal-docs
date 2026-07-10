@@ -1,0 +1,12 @@
+# Registry of apps and their legal documents.
+# Add a new app here and it appears on the home page automatically.
+# Each doc `url` should match the `permalink` in that document's front matter.
+
+- name: Flockle
+  slug: flockle
+  tagline: A daily social prediction game.
+  docs:
+    - title: Privacy Policy
+      url: /flockle/privacy/
+    - title: Terms of Service
+      url: /flockle/terms/
