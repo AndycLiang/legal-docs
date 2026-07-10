@@ -66,4 +66,4 @@ changes, note it in the app. Continuing to use Flockle after a change means you
 accept the updated Terms.
 
 ## Contact
-Questions about these Terms: **SUPPORT_EMAIL@example.com**
+Questions about these Terms: **andyliang810@gmail.com**
