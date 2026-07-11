@@ -1,3 +1,8 @@
+---
+title: Flockle Privacy Policy
+permalink: /flockle/privacy/
+---
+
 # Flockle Privacy Policy
 
 _Last updated: July 10, 2026_
