@@ -1,3 +1,8 @@
+---
+title: Flockle Terms of Service
+permalink: /flockle/terms/
+---
+
 # Flockle Terms of Service
 
 _Last updated: July 10, 2026_
