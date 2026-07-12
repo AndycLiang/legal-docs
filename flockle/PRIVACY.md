@@ -10,27 +10,21 @@ _Last updated: July 10, 2026_
 Flockle is a daily social prediction game. This policy explains what we collect,
 why, and the choices you have. Plain language, no surprises.
 
-> **Before publishing:** replace `SUPPORT_EMAIL@example.com` with a real contact
-> address and confirm the developer/legal entity name. Host this file at a public
-> URL (GitHub Pages works) and enter that URL in App Store Connect and in the
-> app's Privacy Policy link.
-
 ## Who we are
 Flockle ("we", "us") is operated by Andy Liang. Questions or requests:
 **andyliang810@gmail.com**.
 
 ## What we collect
-- **Account details.** Your email address and a password (for a named account),
-  or an anonymous guest session. We use email only so you can sign in on another
-  device — we do not verify it and do not send marketing email.
+- **Account.** Flockle accounts are anonymous and tied to your device — there is
+  no email address, password, or phone number. We never ask for contact details.
 - **Profile.** Your chosen username and avatar. Your username and avatar are
   visible to other players (for example, in friend lists).
 - **Gameplay content.** The answers you submit to daily prompts, your guesses,
   your scores and streak, any prompt ideas you suggest, and your friend
   connections.
-- **A device identifier.** A random ID generated and stored on your device to
-  recognize the same device across sign-outs. It is not an advertising ID and is
-  not used for tracking across other apps or websites.
+- **A device identifier.** A random ID generated and stored on your device that
+  connects your device to your account. It is not an advertising ID and is not
+  used for tracking across other apps or websites.
 - **Basic usage events.** In-app events (for example, "answer submitted",
   "round completed") so we can understand how the game is used and improve it.
 
@@ -50,7 +44,7 @@ Flockle is a shared game, so some content you create is shown to other players:
   gameplay data on our behalf.
 - **Groq** — the daily answers for a prompt are sent to Groq's language-model API
   to group similar answers into themes. Only the answer text is sent; it is not
-  sent with your name, email, or account ID.
+  sent with your username or account ID.
 
 We do not sell your personal information.
 
@@ -61,7 +55,9 @@ below), your account and all associated gameplay data are permanently removed.
 ## Your choices
 - **Delete your account.** In the app, go to **Profile → Delete account**. This
   permanently deletes your account, answers, scores, streak, and friends. It
-  cannot be undone.
+  cannot be undone. Because your account lives on your device, uninstalling the
+  app without deleting the account leaves it inaccessible — email us if you'd
+  like it removed.
 - **Access or questions.** Email us at **andyliang810@gmail.com** and we'll
   help.
 

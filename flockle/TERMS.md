@@ -7,23 +7,19 @@ permalink: /flockle/terms/
 
 _Last updated: July 10, 2026_
 
-Welcome to Flockle, a daily social prediction game. By creating an account,
-playing as a guest, or otherwise using Flockle, you agree to these Terms. If you
-don't agree, don't use the app.
-
-> **Before publishing:** replace `SUPPORT_EMAIL@example.com` with a real contact
-> address and confirm the developer/legal entity name. Host this file at a public
-> URL (GitHub Pages works) and set `TERMS_URL` in the app and any store listing
-> to match.
+Welcome to Flockle, a daily social prediction game. By creating an account or
+otherwise using Flockle, you agree to these Terms. If you don't agree, don't
+use the app.
 
 ## Who can use Flockle
 You must be at least 13 years old to use Flockle. By using it, you confirm you
 meet that requirement.
 
 ## Your account
-You're responsible for activity under your account. Guest accounts let you play
-right away; you can attach an email later to sign in on another device. Keep your
-credentials secure.
+You're responsible for activity under your account. Flockle accounts are
+anonymous and tied to the device you play on — there is no email or password,
+and your account is not transferable to another device. Uninstalling the app
+may permanently lose access to your account and its progress.
 
 ## Content you submit
 Flockle lets you submit answers to daily prompts, suggest future prompts, and
