@@ -12,3 +12,14 @@
       url: /flockle/terms/
     - title: Support
       url: /flockle/support/
+
+- name: Revel
+  slug: revel
+  tagline: Find real events. Meet real people.
+  docs:
+    - title: Privacy Policy
+      url: /revel/privacy/
+    - title: Terms of Use
+      url: /revel/terms/
+    - title: Community Guidelines
+      url: /revel/guidelines/

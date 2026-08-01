@@ -29,6 +29,9 @@ index.md           Home page (lists apps from _data/apps.yml)
 flockle/           One folder per app, holding its Markdown docs
   PRIVACY.md
   TERMS.md
+  SUPPORT.md
+revel/
+  GUIDELINES.md
 ```
 
 ## Adding a new app
