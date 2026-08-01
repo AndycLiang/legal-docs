@@ -196,7 +196,9 @@ this policy first and provide the opt-outs required by law.
 - **Messages:** until you or your recipient deletes them, or your account is
   deleted. Deleting your account removes the messages you sent — and the photos
   you sent in them — from the conversations they were in, including for the
-  people you sent them to.
+  people you sent them to. A one-to-one conversation with you then disappears
+  from the other person's message list, including the messages they sent you in
+  it; group and event chats stay, without your messages in them.
 - **Event history (RSVPs, check-ins):** until you delete individual records or
   your account.
 - **Events you hosted:** an event you created stays on the Service for the
