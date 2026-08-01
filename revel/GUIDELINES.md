@@ -174,7 +174,7 @@ the account immediately, without a warning first.
 ## Appeals
 
 If you think we got it wrong, email
-**[cookedevents123@gmail.com](mailto:cookedevents123@gmail.com)** with the notification
+**[support@revelevents.app](mailto:support@revelevents.app)** with the notification
 you received and what you'd like us to reconsider. A person will read it and
 reply.
 

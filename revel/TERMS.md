@@ -94,7 +94,7 @@ credentials confidential. You will not:
   account rights;
 - solicit, collect, or use other users' login credentials.
 
-Notify us immediately at cookedevents123@gmail.com of any suspected unauthorized
+Notify us immediately at support@revelevents.app of any suspected unauthorized
 use. To the extent permitted by law, we are not liable for losses caused by
 unauthorized use of your account occurring before you notify us.
 
@@ -273,7 +273,7 @@ compensation.
 ## 14. Copyright Complaints
 
 If you believe content on the Service infringes your copyright, email
-cookedevents123@gmail.com with: your contact information; identification of the
+support@revelevents.app with: your contact information; identification of the
 work you say is infringed; where the content appears in the app; a statement
 that you have a good-faith belief the use is unauthorized; a statement that the
 information in your notice is accurate; and your physical or electronic
@@ -321,7 +321,7 @@ equivalent notices under local law.
   example, the EU or UK), nothing in this Section deprives you of that right, and
   Sections 16(b)–(f) apply to you only to the extent permitted there.
 - **(b) Informal resolution first.** Before filing any claim, you agree to
-  contact us at cookedevents123@gmail.com with a written description of the
+  contact us at support@revelevents.app with a written description of the
   dispute and allow 30 days for informal resolution.
 - **(c) Binding arbitration.** Except as provided in this Section, you and REVEL
   agree that any dispute arising out of or relating to these Terms or the Service
@@ -339,7 +339,7 @@ equivalent notices under local law.
   claim (and only that claim) proceeds in court.
 - **(f) Opt-out.** You may opt out of arbitration by sending written notice (your
   name, the phone number and username on your account, and a clear opt-out
-  statement) to cookedevents123@gmail.com within 30 days of first accepting these
+  statement) to support@revelevents.app within 30 days of first accepting these
   Terms. Opting out does not affect any other provision.
 - **(g) Time limit.** To the extent permitted by law, claims must be filed within
   one (1) year after they arise.
@@ -353,14 +353,14 @@ if we reasonably believe you have violated these Terms, the law, or created risk
 or harm to users or REVEL. Except where immediate action is needed (safety
 risks, legal requirements, fraud, severe violations), we will tell you the
 general reason for significant enforcement action against your account and give
-you an opportunity to appeal at cookedevents123@gmail.com. Upon termination,
+you an opportunity to appeal at support@revelevents.app. Upon termination,
 your license to use the Service ends. Sections intended to survive — including
 9, 11 (license tail), and 13–18 — survive.
 
 ## 18. General Terms
 
 - **(a) Changes to these Terms.** We may update these Terms. For material
-  changes we will give you at least 30 days' advance notice in the app and by
+  changes we will give you at least 30 days' advance notice in the app or by
   text message to the phone number on your account, unless a shorter period is
   required for legal, security, or safety reasons. If you do not agree, stop
   using the Service and delete your account before the changes take effect;
@@ -389,7 +389,7 @@ your license to use the Service ends. Sections intended to survive — including
   about the Service.
 - **(h) Force majeure.** We are not liable for delays or failures caused by
   events beyond our reasonable control.
-- **(i) Contact.** cookedevents123@gmail.com · Andy Liang
+- **(i) Contact.** support@revelevents.app · Andy Liang
 - **(j) Notices and communications.** We do not collect an email address for
   your account. Any notice we give you under these Terms — including notice of
   changes to these Terms, enforcement decisions, and the outcome of an appeal —
@@ -401,7 +401,7 @@ your license to use the Service ends. Sections intended to survive — including
   marketing texts and HELP for help, and carriers are not liable for delayed or
   undelivered messages. You must keep your phone number current in settings — if
   it changes and you do not update it, notices sent to the number on file remain
-  effective. Notices to us must be sent to cookedevents123@gmail.com.
+  effective. Notices to us must be sent to support@revelevents.app.
 
 ---
 
@@ -498,7 +498,7 @@ You — not REVEL — are the organizer of your event. REVEL provides software o
   outside the Service — exports, screenshots, spreadsheets, or transcriptions — must 
   be deleted within 30 days after the event ends, except records you must keep by law.
 - **(d) Security and breach.** You must protect Attendee Data with reasonable
-  safeguards and notify us at cookedevents123@gmail.com without undue delay, and
+  safeguards and notify us at support@revelevents.app without undue delay, and
   no later than 48 hours, after becoming aware of any breach affecting Attendee
   Data obtained through the Service.
 - **(e) Consent-based marketing.** You may market to attendees only where the
@@ -584,7 +584,7 @@ otherwise, this Section applies only to the extent permitted there.
   feature-specific terms; (3) the ToS.
 - **(c) Assignment.** You may not assign this Agreement without our written
   consent; we may assign in connection with a merger, acquisition, or asset sale.
-- **(d) Notices.** Legal notices to REVEL: cookedevents123@gmail.com. Notices to
+- **(d) Notices.** Legal notices to REVEL: support@revelevents.app. Notices to
   you: in the app or by text message to the phone number on your account, per ToS
   Section 18(j).
 - **(e) Severability; waiver; entire agreement.** Standard terms as in ToS
