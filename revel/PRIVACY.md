@@ -7,7 +7,8 @@ permalink: /revel/privacy/
 
 _Effective date: July 31, 2026_
 
-This Privacy Policy explains how Andy Liang ("REVEL," "we," "us")
+This Privacy Policy explains how Andy Liang, an
+individual residing in Virginia ("REVEL," "we," "us")
 collects, uses, shares, and protects your personal information when you use the
 REVEL app, website, and related services (the "Service"). It is part of your
 agreement with us under the [Terms of Service].
@@ -245,7 +246,7 @@ described in Section 2, for the purposes in Section 3, and disclosed them to the
 recipients in Section 5; we did not sell or share personal information as those
 terms are defined by the CCPA.
 
-### EEA/UK users (if applicable)
+### EEA/UK users
 
 If we offer the Service to you in the EEA or UK, we process your data on the
 legal bases of contract performance (providing the Service), consent (precise
