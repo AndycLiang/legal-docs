@@ -141,9 +141,10 @@ features currently work:
 ## 5. How Information Is Shared
 
 - **(a) With other users.** Your profile (username, photos, bio), your public
-  posts, your ratings, your attendance at events you check in to, and — for
-  matches — your messages. Your "Events Attended" history appears on your profile
-  per your settings.
+  posts, your ratings, your attendance at events you check in to, and your
+  messages — with the other people in that conversation, whether it is a
+  one-to-one chat from a match, a group chat, or an event chat. Your "Events
+  Attended" history appears on your profile per your settings.
 - **(b) With hosts and cohosts.** When you RSVP or check in, the event's host
   and cohosts can see your name/username, profile photo, RSVP status, and
   check-in status, so they can run the event. Under our Host &
@@ -192,9 +193,17 @@ this policy first and provide the opt-outs required by law.
 ## 7. How Long We Keep Information
 
 - **Account and profile data:** for as long as your account exists.
-- **Messages:** until you and your recipient deletes them, or your account is deleted.
+- **Messages:** until you or your recipient deletes them, or your account is
+  deleted. Deleting your account removes the messages you sent — and the photos
+  you sent in them — from the conversations they were in, including for the
+  people you sent them to. A one-to-one conversation with you then disappears
+  from the other person's message list, including the messages they sent you in
+  it; group and event chats stay, without your messages in them.
 - **Event history (RSVPs, check-ins):** until you delete individual records or
   your account.
+- **Events you hosted:** an event you created stays on the Service for the
+  people who attended it after your account is deleted, with your name detached
+  from it.
 - **Precise location points:** Until you turn off location tracking or your account is deleted (Section 4(f)).
 - **Ephemeral content:** per Section 6.
 - **Logs and diagnostics:** typically 12 months.
